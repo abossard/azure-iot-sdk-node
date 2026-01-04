@@ -13,7 +13,7 @@
   "author": "Microsoft Corporation",
   "license": "MIT",
   "dependencies": {
-    "@azure/event-hubs": "^1.0.8",
+    "@azure/event-hubs": "^5.0.0",
     "@types/chai": "^3.5.1",
     "@types/debug": "^4.1.5",
     "@types/mocha": "^2.2.41",
